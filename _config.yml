@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 393989650@qq.com
 description: "music&soul"
 keyword: "YXH, YXH Blog, 昕航的博客, yinxinhang, 尹昕航, classic music, 开智, 乐评"
-url: "http://yinxinhang.github.io"          # your host, for absolute URL
+url: "http://yinxinhang.art"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ExpectationG/yinxinhang.github.io.git" # you code repository
+github_repo: "https://github.com/ExpectationG/yinxinhang.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -110,5 +110,3 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
-
-theme: jekyll-theme-cayman
