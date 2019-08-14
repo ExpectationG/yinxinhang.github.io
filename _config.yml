@@ -1,10 +1,10 @@
 # Site settings
-title: 尹昕航的博客
-SEOTitle: 尹昕航的博客 | YXH Blog
+title: 尹昕航的网志
+SEOTitle: 尹昕航的网志 | YXH Blog
 header-img: img/post-bg-desk.jpg
-email: 393989650@qq.com
+email: xinhangyin@foxmail.com
 description: "music&soul"
-keyword: "YXH, YXH Blog, 昕航的博客, yinxinhang, 尹昕航, classic music, 开智, 乐评"
+keyword: "YXH, YXH Blog, 昕航的博客, yinxinhang, 尹昕航, classic music, 开智, 乐评，游戏"
 url: "https://ExpectationG.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ExpectationG/ExpectationG.github.io" # you code repository
@@ -19,9 +19,9 @@ sidebar-avatar: img/headimg.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: true
 # weibo_username:
-zhihu_username:
-github_username:    ExpectationG
-facebook_username:
+zhihu_username: 扔飞你的感叹号
+github_username: ExpectationG
+facebook_username: 尹昕航
 jianshu_username:
 #twitter_username:
 
