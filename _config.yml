@@ -11,19 +11,19 @@ github_repo: "https://github.com/ExpectationG/ExpectationG.github.io" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Be yourself."
-sidebar-avatar: img/headimg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "world explorer、music composer、art critics、student"
+sidebar-avatar: img/head_img.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
 # weibo_username:
-zhihu_username: 扔飞你的感叹号
+zhihu_username: gantanhao
 github_username: ExpectationG
-facebook_username: 尹昕航
-jianshu_username:
-#twitter_username:
+facebook_username: notastenosense
+jianshu_username: 
+#twitter_username:@yinxinhang
 
 
 
