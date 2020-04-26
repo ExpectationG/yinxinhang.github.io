@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 传说之下undertale：善恶的极点
+tags:
+    - 艺术
+    - 故事
+    - 游戏
 ---
 
 >“在这个世界…不是杀人 就是被杀！(In this world... It's KILL or BE killed!)” 

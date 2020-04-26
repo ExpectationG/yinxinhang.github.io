@@ -1,7 +1,7 @@
 # Site settings
 title: 尹昕航的网志
 SEOTitle: 尹昕航的网志 | YXH Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/tag-bg-o.jpg
 email: xinhangyin@foxmail.com
 description: "music&soul"
 keyword: "YXH, YXH Blog, 昕航的博客, yinxinhang, 尹昕航, classic music, 开智, 乐评，游戏"
@@ -105,8 +105,5 @@ friends: [
     },{
         title: "Apple",
         href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
