@@ -39,9 +39,11 @@ tags:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=0&id=1802909248"></iframe>
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="750" height="110" loading="lazy" sandbox="allow-popups allow-scripts allow-same-origin" src="https://www.xiami.com/webapp/embed-player?autoPlay=1&id=1803111177"></iframe>
+
 我最欣赏梶浦由记这首歌，跟影片契合的太好了。
 
-女声出来的第一句非常平稳，我当时在想，恐怕后面应该是Sdorica "the Story Unfolds"类似的基调：
+女声出来的第一句非常平稳，我当时在想，恐怕后面应该是下面这首《Sdorica "the Story Unfolds"》的基调：
 
  The darkest valley
  最幽暗的山谷
@@ -61,7 +63,7 @@ tags:
  Descended from heaven we embrace
  我们拥抱落入凡间的天使
 
-勇者传奇？不，想错了，弦乐给了我们惊喜，用一种不和谐的方式升高以后，它开始了自己的怪异哀歌，以o，a结尾，正好，平常生活中感受到痛楚我们就会o，a这样的叫，疼不疼？这哪里是勇者传奇，这是勇者被杀戮的故事。
+勇者传奇？不，想错了，弦乐给了我们惊喜，用一种不和谐的方式升高以后，它开始了自己的怪异哀歌，以o，a结尾，正好，平常生活中感受到痛楚我们就会o，a这样的叫，疼不疼？这哪里是勇者传奇，这是勇者被杀戮的故事，请看歌词。
 
  Castioso /iriya /sara ata
 
@@ -166,5 +168,5 @@ tags:
 长笛和竖琴对我来说是稀罕的组合，长笛的第一句是寄托哀思，第二句就是表达爱意了，第二句这么长，可以感受到这股感情的强烈，让人联想到剧中女主角对男主角的爱恋。在后面拖的这么长的时候，笛声渐渐消失，银铃声仍在，“余音绕梁，三日不绝”，爱恋入心，至老不渝。对于结尾来说，充满爱意的离开是最美的结局。
 
 ## changelog
-
+2020-06-07 19:32:22 添加了《Sdorica "the Story Unfolds"》的音乐
 2020-06-07 19:09:03 本文由写作工具写匠完成，心流满满。
