@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小说：我杀了恩人的妻子
+title: 小说：雨夜复仇/报恩
 tags:
     - 小说
     - 短篇小说
