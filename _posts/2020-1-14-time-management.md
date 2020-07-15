@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 时间管理没有告诉你的事情
+author: 尹昕航
 tags:
     - 管理学
     - 时间

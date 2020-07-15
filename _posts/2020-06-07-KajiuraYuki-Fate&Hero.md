@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 梶浦由记：命运与英雄
+author: 尹昕航
 tags:
     - 音乐
     - 梶浦由记
