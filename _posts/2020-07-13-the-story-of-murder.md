@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小说：雨夜复仇/报恩
+title: 小说：雨夜恩仇
 author: 尹昕航
 tags:
     - 小说
